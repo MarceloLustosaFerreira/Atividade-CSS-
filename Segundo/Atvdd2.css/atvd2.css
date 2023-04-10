@@ -1,0 +1,52 @@
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkO7hKj25LSo3PBhO1xCGclc_NEQxTkVd2PQ&usqp=CAU);
+}
+
+.lore{
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 1px;
+    background-color: rgb(70, 50, 50);
+    box-shadow: 0px 20px 20px rgb(70, 50, 50);
+}
+
+
+.primeira{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    font-style: normal;
+    font-weight: 800;
+    text-align: center;
+}
+
+.segunda{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    font-style: italic;
+    font-weight: 200;
+    text-align: center;
+}
+.terceira{
+    font-family: monospace;
+    font-style: oblique;
+    font-weight: 500;
+    text-align: center;
+}
+
+.quarta{
+    font-family: fantasy;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: 400;
+    text-align: center;
+}
+
+.quarta2{
+    font-family: fantasy;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: 400;
+    text-align: center;
+}
+    
+    

@@ -1,0 +1,30 @@
+
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDbA6A2CdKN_H3joBhLyV0zLgtyJ6lIzav1Q&usqp=CAU);
+}
+
+.texto{
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 1px;
+    background-color: rgb(247, 193, 193);
+    box-shadow: 0px 20px 20px rgb(97, 70, 75);
+}
+
+.titulo{
+    font-family: fantasy;
+    text-align: center;
+    color: rgb(245, 28, 180);
+   
+}
+.sub-titulo{
+    font-family: fantasy;
+    text-align: center;
+    color: rgb(245, 28, 180);
+   
+}
+p{
+    text-align: center;
+    color: rgb(245, 28, 180);
+   
+}
